@@ -17,3 +17,6 @@ if __name__ == '__main__':
     
 
 hi from LINUX you WINDOWS
+
+hi you too fucking LINUX
+
