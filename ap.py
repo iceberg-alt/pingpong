@@ -20,3 +20,6 @@ hi from LINUX you WINDOWS
 
 hi you too fucking LINUX
 
+go fuck you self faggot
+
+
