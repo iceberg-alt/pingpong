@@ -1,3 +1,4 @@
+from distutils.fancy_getopt import fancy_getopt
 from kivy.uix.button import Button
 from kivy.app import App
 from kivy.uix.label import Label
@@ -22,4 +23,5 @@ hi you too fucking LINUX
 
 go fuck you self faggot
 
+no you go fuck yourself fag 
 
