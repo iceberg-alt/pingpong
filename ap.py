@@ -15,16 +15,4 @@ class Application(App):
 
 if __name__ == '__main__':
     Application().run()
-    
-
-hi from LINUX you WINDOWS
-
-hi you too fucking LINUX
-
-go fuck you self faggot
-
-no you go fuck yourself fag 
-
-your mom gay abiosly
-
 
