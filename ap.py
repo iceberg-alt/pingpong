@@ -25,3 +25,6 @@ go fuck you self faggot
 
 no you go fuck yourself fag 
 
+your mom gay abiosly
+
+
