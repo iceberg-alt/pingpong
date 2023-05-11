@@ -1,7 +1,6 @@
 from tkinter import *
 import random
 import time
-from items import *
 
 tk = Tk()
 tk.title('Game')

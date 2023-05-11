@@ -14,5 +14,5 @@ while not ball.hit_bottom:
         tk.update_idletasks()
         tk.update()
         time.sleep(0.01)
-time.sleep(3)
+time.sleep(1)
 
