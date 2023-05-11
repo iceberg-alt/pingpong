@@ -1,14 +1,12 @@
-from kivy.app import App
-from kivy.uix.widget import Widget
+from tkinter import *
+import random
+import time
+from items import *
 
-
-class pingponggame(Widget):
-    pass
-
-class pingpongapp(App):
-    def build(self):
-        
-        return pingponggame()
-    
-if __name__ == '__main__':
-    pingpongapp().run()
+tk = Tk()
+tk.title('Game')
+tk.resizable(0,0)
+tk.wm_attributes('-topmost',1)
+canvas = Canvas(tk,width=500,height=400,highlightthickness=0)
+canvas.pack()
+tk.update()
